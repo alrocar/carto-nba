@@ -1,0 +1,13 @@
+nba-api>=1.0.7
+carto-print>=0.0.4
+-e git+https://github.com/CartoDB/cartoframes.git#egg=cartoframes
+carto==1.5.dev0
+pandas>=0.19.2
+webcolors==1.7
+shapely>=1.5.0
+tqdm>=4.14.0
+IPython>=5.0.0,<6.0.0;python_version<="2.7"
+IPython>=6.0.0;python_version>="3.0"
+appdirs>=1.4.3
+unidecode>=1.0.23
+jinja2>=2.10
